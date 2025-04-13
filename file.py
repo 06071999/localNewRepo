@@ -15,5 +15,5 @@ print(n)
 def func3(name):
     return f'Heyyy !! {name} Kaisa hai'
 
-n = func2('Gabbu')
+n = func3('Gabbu')
 print(n)

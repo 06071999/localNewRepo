@@ -10,3 +10,10 @@ def func2(name):
 
 n = func2('Snigdha')
 print(n)
+
+
+def func3(name):
+    return f'Heyyy !! {name} Kaisa hai'
+
+n = func2('Gabbu')
+print(n)
